@@ -2,7 +2,7 @@ title: Juan J. Durillo, PhD
 description: Software Engineer
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-dinky
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
