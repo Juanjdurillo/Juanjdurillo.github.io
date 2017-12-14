@@ -1,7 +1,7 @@
 
 ### About
 
-I am a researcher at the [Leibniz Supercomputing Center of the Bavarian Academy of Sciences and Humanities (Munich, Germany)](www.lrz.de) since November 2017.
+I am a researcher at the [Leibniz Supercomputing Center of the Bavarian Academy of Sciences and Humanities (Munich, Germany)](https://www.lrz.de) since November 2017.
 
 From May 2011 to October 2017, I was a Posd-doc (Assistant Professor) at the [University of Innsbruck](www.uibk.ac.at) (Austria), where I worked with [Prof. Thomas Fahringer](www.dps.uibk.ac.at/~tf) in the [DPS group](www.dps.uibk.ac.at). During my time in Innsbruck, I contributed to some challenging problems on the field of auto-tuning parallel applications within the context of the [Insieme compiler](www.insieme-compiler.org) and multi-objective scheduling of workflows for IaaS clouds. 
 
