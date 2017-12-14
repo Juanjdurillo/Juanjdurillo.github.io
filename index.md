@@ -1,14 +1,10 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+### About
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+Since November 2017, I am a researcher at the Leibniz Supercomputing Center of the Bavarian Academy of Sciences and Humanities (Munich, Germany). 
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+From May 2011 to October 2017, I was a Posd-doc (Assistant Professor) at the University of Innsbruck (Austria), where I worked with Prof. Thomas Fahringer in the DPS group. During my time in Innsbruck, I contributed to some challenging problems on the field of auto-tuning parallel applications within the context of the Insieme Compiler and Multi-objective Scheduling for executing workflows on IaaS Clouds. 
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I received my PhD from the University of Malaga (Spain) where I worked on the design and Implementation of parallel and distributed multi-criteria optimization methods, in particular from the field fo Metaheuristics. During my PhD studies, I visited and collaborated with Professors at other institutions. I spend two Months (June-July 2018) in King´s Collegue London under the Supervision of Prof. Mark Harman (who later moved to University Collegue London, and currently also hold an Engineering Manager Position at Facebook). From March 2010 to April 2017 I visited the University of Luxembourg and I worked under the supervision of Prof. Pascal Bouvry and Dr. Bernabe Dorronsoro. Two months later, I visited Prof. Qingfu Zhang, at the University of Essex (Prof. Zhang has taken a long leave and is now working at the City University of Hong Kong). 
+
+
