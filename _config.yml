@@ -2,7 +2,7 @@ title: Juan J. Durillo, PhD
 description:	Dr. Juan J. Durillo. Leibniz-Rechenzentrum, Boltzmannstraße 1 D-85748 Garching bei München (+49 89 35831-7898)
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
