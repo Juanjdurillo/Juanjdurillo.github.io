@@ -65,9 +65,8 @@
 ## Invited Talks, Tutorials
 * Tutorial: Algorithms in OpenCL2.0 / The 2016 International Conference on High Performance Computing & Simulation (HPCS 2016) (07/2016)
 * Tutorial: OpenCL2.0 and Algorithms/NESUS Winter School, Timisoara, Romania (02/2016)
-* Tutorial: The jMetal framework / MSc in Computer Scienceoptimization in Operations Research, International Postgraduate Program, University of Nantes (11/2010)
-* Invited Talk: A Multi-objective particle swarm optimization algorithms / MSc in Computer Science
-* Invited Talk: Optimization in Operations Research, International Postgraduate Program, University of Nantes (11/2010)
+* Tutorial: The jMetal framework / MSc in Computer Science Optimization in Operations Research, International Postgraduate Program, University of Nantes (11/2010)
+* Invited Talk: A Multi-objective particle swarm optimization algorithms / MSc in Computer Science Optimization in Operations Research, International Postgraduate Program, University of Nantes (11/2010)
 * Invited Talk: Advanced Metaheuristics for Multi-objective Optimization: Design, Analysis and Applications. 22nd International Conference on Multiple Criteria Decision Making, Malaga. Best Dissertation Award Competition (06/2013)
 * Invited Talk: Multi-Objective Optimization What? How? and easier than you thought. Salzburgresearch, Salzburg (11/2013)
 * Dissemination Talk: Region Based Software Auto-Tuning. Department of Computer Science, University of Innsbruck. LunchTime Seminar (04/2016)
