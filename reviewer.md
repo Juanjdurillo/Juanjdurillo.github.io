@@ -40,3 +40,4 @@
 * Sensors
 * Journal of Parallel and Distributed Computing 
 * Soft Computing
+* IEEE Transactions on Industrial Electronics
